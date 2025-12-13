@@ -54,7 +54,7 @@ class Projects extends React.Component {
         link: "https://github.com/SahilShinde108/Ai-base-HealthCare-Architecture-for-India",
         open: "https://ai-base-healthcare-architecture-for-india.onrender.com"
       },
-      "Career Crafters": {
+      "Career Guidance Platform": {
         desc:
           "A comprehensive career guidance platform featuring interactive assessment quizzes, detailed career exploration across Science, Commerce, and Arts streams, and personalized recommendations.",
         techStack: "PHP, MySQL, HTML, CSS, JavaScript",
