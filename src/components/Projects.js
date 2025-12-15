@@ -29,8 +29,7 @@ class Projects extends React.Component {
           "SuiteSpot is a web application designed for booking accommodations. It allows users to list their properties, browse available listings, make bookings, and manage associated bill.",
         techStack: "JavaScript, EJS, Bootstrap, Node.js (Express.js), Sequelize, MySQL",
         link: "https://github.com/SahilShinde108/SuiteSpot",
-
-        // open: ""
+        open: "https://suitespot-1plr.onrender.com"
       },
       "Apna Video Call": {
         desc:
